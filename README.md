@@ -12,3 +12,5 @@
 ![alt text](https://github.com/cahyaamirtha/Android/blob/master/rupiah.png)
 
 ![alt text](https://github.com/cahyaamirtha/Android/blob/master/uang.png)
+
+![alt text](https://github.com/cahyaamirtha/Android/blob/master/Screenshot_2019-03-20-12-16-06-72.png)
