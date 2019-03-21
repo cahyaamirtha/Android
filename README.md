@@ -14,3 +14,5 @@
 ![alt text](https://github.com/cahyaamirtha/Android/blob/master/uang.png)
 
 ![alt text](https://github.com/cahyaamirtha/Android/blob/master/Screenshot_2019-03-20-12-16-06-72.png)
+![alt text](https://github.com/cahyaamirtha/Android/blob/master/multiwindow%20(1).png)
+![alt text](https://github.com/cahyaamirtha/Android/blob/master/multiwindow%20(2).png)
